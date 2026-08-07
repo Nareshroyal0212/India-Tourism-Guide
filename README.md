@@ -173,11 +173,11 @@ The app will be live at **`http://localhost:3000`**
 
 <div align="center">
 
-*Add your app screenshots here to make your README even more impressive!*
+
 
 | Home | AI Photo Recognition | Admin Dashboard |
 |:---:|:---:|:---:|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+|  _screenshot_ | _screenshot_ | _screenshot_ |
 
 </div>
 
