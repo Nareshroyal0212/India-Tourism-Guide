@@ -102,7 +102,7 @@ India-Tourism-Guide/
 
 ### ✅ Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16+)
+
 - [Python](https://www.python.org/) (v3.10+)
 - [MongoDB Atlas](https://www.mongodb.com/atlas) account (or local MongoDB)
 
